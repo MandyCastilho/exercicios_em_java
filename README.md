@@ -66,6 +66,8 @@ Sugestões, dicas e correções são **super bem-vindas**! Sinta-se à vontade p
 1.  Abrir uma **Issue** para relatar problemas ou sugerir melhorias.
 2.  Enviar um **Pull Request** com correções de código ou conteúdo.
 
+---
+
 ## 📝 Licença
 
 Este repositório é de uso **pessoal**, mas pode ser utilizado livremente como **referência para estudos**.
