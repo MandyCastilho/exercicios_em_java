@@ -57,6 +57,8 @@ Os conteúdos estão estruturados em pastas e focados nos seguintes temas:
 
 Este repositório é atualizado continuamente conforme avanço no meu aprendizado. As *folders* estão organizadas por **tema** ou **fase**, facilitando a navegação.
 
+---
+
 ## 🤝 Contribuição
 
 Sugestões, dicas e correções são **super bem-vindas**! Sinta-se à vontade para:
