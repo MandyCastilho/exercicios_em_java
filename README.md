@@ -1,8 +1,7 @@
 # 🚀 Jornada Java — Do Básico ao Avançado ☕
 
-<p align="center">
   Bem-vindo(a) ao meu repositório de estudos em **Java**!
-</p>
+
 
 Aqui registro minha **evolução** na linguagem, desde os conceitos fundamentais até tópicos mais avançados.
 
