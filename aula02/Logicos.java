@@ -3,8 +3,8 @@ public class Logicos {
 
         /* OPERADORES LÓGICOS 
 
-        (||) == E
-        (&&) == Ou
+        (||) == Ou
+        (&&) == E
 
         Exemplo:
         Promoção Amazon
